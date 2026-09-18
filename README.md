@@ -2,7 +2,7 @@
 
 This repository contains code accompanying the manuscript:
 
-**Tracing Shifts in K–12 Education Research: A Topic Modeling Analysis of Journal Abstracts from 1990 to 2023**
+**Tracing Shifts in K-12 Education Research: A Topic Modeling Analysis of Publications from 1990-2023**
 
 The study uses BERTopic to examine topical trends in abstracts from 22,921 articles published in 27 U.S.-based education journals between 1990 and 2023.
 
@@ -10,7 +10,7 @@ The study uses BERTopic to examine topical trends in abstracts from 22,921 artic
 
 - `bertopic_k12_education_trends_codes.ipynb`: Code for training the BERTopic model, reducing outliers, and plotting topic trends.
 - `requirements.txt`: Python packages used for the analysis.
--  Citation-level metadata
+-  Citation-level metadata.
 
 ## Note
 
