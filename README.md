@@ -10,10 +10,7 @@ The study uses BERTopic to examine topical trends in abstracts from 22,921 artic
 
 - `bertopic_k12_education_trends_codes.ipynb`: Code for training the BERTopic model, reducing outliers, and plotting topic trends.
 - `requirements.txt`: Python packages used for the analysis.
-
-## Data availability
-
-The full article abstracts are not included in this repository because of potential copyright and redistribution concerns. Citation-level metadata is available in the repository. The code is provided to document the analytic workflow and modeling decisions used in the manuscript.
+-  Citation-level metadata
 
 ## Note
 
