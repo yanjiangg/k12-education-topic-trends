@@ -13,7 +13,7 @@ The study uses BERTopic to examine topical trends in abstracts from 22,921 artic
 
 ## Data availability
 
-The full article abstracts are not included in this repository because of potential copyright and redistribution concerns. The code is provided to document the analytic workflow and modeling decisions used in the manuscript.
+The full article abstracts are not included in this repository because of potential copyright and redistribution concerns. Citation-level metadata is available in the repository. The code is provided to document the analytic workflow and modeling decisions used in the manuscript.
 
 ## Note
 
